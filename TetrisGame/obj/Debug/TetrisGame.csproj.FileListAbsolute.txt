@@ -1,0 +1,16 @@
+C:\Users\tomasz\source\repos\TetrisGame\TetrisGame\bin\Debug\TetrisGame.exe.config
+C:\Users\tomasz\source\repos\TetrisGame\TetrisGame\bin\Debug\TetrisGame.exe
+C:\Users\tomasz\source\repos\TetrisGame\TetrisGame\bin\Debug\TetrisGame.pdb
+C:\Users\tomasz\source\repos\TetrisGame\TetrisGame\obj\Debug\TetrisGame.csproj.AssemblyReference.cache
+C:\Users\tomasz\source\repos\TetrisGame\TetrisGame\obj\Debug\MainWindow.g.cs
+C:\Users\tomasz\source\repos\TetrisGame\TetrisGame\obj\Debug\App.g.cs
+C:\Users\tomasz\source\repos\TetrisGame\TetrisGame\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tomasz\source\repos\TetrisGame\TetrisGame\obj\Debug\TetrisGame_MarkupCompile.cache
+C:\Users\tomasz\source\repos\TetrisGame\TetrisGame\obj\Debug\TetrisGame_MarkupCompile.lref
+C:\Users\tomasz\source\repos\TetrisGame\TetrisGame\obj\Debug\MainWindow.baml
+C:\Users\tomasz\source\repos\TetrisGame\TetrisGame\obj\Debug\TetrisGame.g.resources
+C:\Users\tomasz\source\repos\TetrisGame\TetrisGame\obj\Debug\TetrisGame.Properties.Resources.resources
+C:\Users\tomasz\source\repos\TetrisGame\TetrisGame\obj\Debug\TetrisGame.csproj.GenerateResource.cache
+C:\Users\tomasz\source\repos\TetrisGame\TetrisGame\obj\Debug\TetrisGame.csproj.CoreCompileInputs.cache
+C:\Users\tomasz\source\repos\TetrisGame\TetrisGame\obj\Debug\TetrisGame.exe
+C:\Users\tomasz\source\repos\TetrisGame\TetrisGame\obj\Debug\TetrisGame.pdb
